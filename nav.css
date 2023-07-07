@@ -1,0 +1,40 @@
+.all-item {
+    background-color: #424141;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+    cursor: pointer;
+}
+
+.logo img {
+    width: 200px;
+}
+.logo img a{
+    width: 200px;
+}
+
+.menu-item {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: white;
+}
+
+.menu-item li {
+
+    margin-right: 30px;
+    font-size: 18px;
+
+}
+
+.menu-item li a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.menu-item li:hover {
+    color: red;
+    cursor: pointer;
+}
