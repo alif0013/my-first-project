@@ -130,16 +130,21 @@
 .search{
     padding: 20px;
 }
-.nat-boltu img{
+.cartoon img{
     width: 500px;
 }
-.nat-boltu a{
+.cartoon a{
     text-decoration: none;
     color: black;
     font-size: 20px;
     display: block;
     margin-left: 111px;
 }
-.nat-boltu a:hover{
+.cartoon a:hover{
     color: blue;
+}
+.all-image{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
