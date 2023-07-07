@@ -148,3 +148,15 @@
     justify-content: space-around;
     align-items: center;
 }
+.feadback-form{
+    border: 1px solid black;
+    width: 470px;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    background-color: #e5e5e5;
+}
+.form{
+    margin-top: 67px;
+}
+

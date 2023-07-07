@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .all-item {
     background-color: #424141;
     display: flex;
